@@ -1,0 +1,30 @@
+{
+    "id":"da_vortex_weapon",
+    "name":"DA Vortex Drone Test",
+    "author":"Zone51,Damex",	
+    "version":
+    {
+        "major":0,
+        "minor":1,
+        "patch":0,
+    },
+    "description":"add a new weapon to Diable Avionics, its the Vortex Drone for built-in hangar bays.",
+    "gameVersion": "0.97a",
+    "dependencies": [
+        {
+            "id": "lw_lazylib",
+            "name": "LazyLib",
+            #"version": "2.6"
+        },
+        {
+            "id": "MagicLib",
+            "name": "MagicLib",
+            #"version": "2.6"
+        },
+		{
+            "id": "diableavionics",
+            "name": "Diable Avionics",
+            #"version": "2.7.6"
+        },
+    ],
+}
